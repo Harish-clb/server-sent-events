@@ -25,10 +25,9 @@ The server will start running on `http://localhost:5000`.
 
 ## Running the Client
 
-Navigate to client directory and run the index.html file.
+Navigate to client directory and run the __index.html__ file.
 
 ## Image
+Screenshot of 2 clients where event message is different based on client who takes action
 
-```markdown
-![Server Events](./server-events.png)
-```
+<img src="./screenshot.png" alt="Screenshot of 2 clients" />
